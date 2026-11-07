@@ -1,0 +1,1 @@
+{ "name": "uno-night", "version": "1.0.0", "description": "Multiplayer UNO for friends", "main": "server.js", "scripts": { "start": "node server.js" }, "license": "MIT" }
